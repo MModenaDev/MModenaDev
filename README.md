@@ -1,3 +1,7 @@
+[![Linkedin: modenamarco](https://img.shields.io/badge/-modenamarco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/modenamarco/)](https://www.linkedin.com/in/modenamarco/)
+![GitHub followers](https://img.shields.io/github/followers/Anedom?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mmodena.dev/)](https://mmodena.dev/)
+
 ```javascript
 const marcoModena = {
     pronouns: "He" | "Him",
