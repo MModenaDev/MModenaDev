@@ -20,7 +20,7 @@ const marcoModena = {
     technologies: {
         frontEnd: {
             js: ["Typescript", "Next.js", "Relay"],
-            css: ["MaterialUI", "Bootstrap", ""]
+            css: ["MaterialUI", "Bootstrap"]
         },
         backEnd: {
             js: ["Express", "GraphQL"],
