@@ -14,6 +14,7 @@
 ```javascript
 const marcoModena = {
     pronouns: "He" | "Him",
+    birthday: "July 1997",
     code: ["HTML", "CSS", "Javascript", "React", "Node"],
     interests: ["Web Dev", "Photography", "Travel", "Minimalism"],
     technologies: {
@@ -29,7 +30,7 @@ const marcoModena = {
         misc: ["Jest", "Styled-Components"]
     },
     architecture: ["PWAs", "SPAs", "Micro-Frontends", "Micro-Services"],
-    currentFocus: "Becoming the best front-end egineer possible!"
+    currentFocus: "Becoming the best front-end engineer possible!"
 };
 ```
 
