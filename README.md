@@ -4,7 +4,7 @@
 [![website](https://img.shields.io/badge/-website-lightgrey?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mmodena.dev/)](https://mmodena.dev/)
 ![GitHub followers](https://img.shields.io/github/followers/Anedom?label=Follow&style=flat-square&logo=github&labelColor=lightgrey&color=success)
 
-<p><em><img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"> Software Engineer @ <a href="https://www.talura.io/">Talura</a></em></p>
+<p><em><img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"> Software Engineer @ <a href="https://www.grupoboticario.com.br/">Grupo Boticário</a></em></p>
 <p><em><img src="https://media.giphy.com/media/h8HgkqabhYyq8iRSp0/giphy.gif" width="30"> Studied Web Development @ <a href="https://www.ironhack.com/">IronHack</a></em></p>
 
 <br/>
